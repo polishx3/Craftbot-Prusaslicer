@@ -30,7 +30,7 @@ Revision History
       
       should start with ";V0.02 Start code PrusaSlicer"
       
-      deleteOldSettings.bat - to delete craftbot printer definition (re-add new craftbot through configuration wizard in prusa slicer after overwriting files in the C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles directory with new version
+      deleteOldSettings.bat - to delete craftbot printer definition (re-add new craftbot through configuration wizard in prusa slicer after overwriting files in the C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles directory with new version)
 
 
 
