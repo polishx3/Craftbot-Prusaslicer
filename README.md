@@ -13,16 +13,23 @@ there are seperate printers for each mode;
 
 If previous version installed; may need to deleted old printer then reintall printer under 'Configuration Wizard' in prusaslicer
 
-To check if you have the latest version check start gcode under printer setting
 
-should start with ";V0.02 Start code PrusaSlicer"
+Revision History
+
+0.01  Initial Realease
+
+0.02  2/20/23
+  - fixed bed size
+      Craftbot gives no specific info on bed size accurately; I still maybe off by +/- mm in the various modes
+      
+  - added versioning to start gcode
+      check start gcode under printer setting
+      should start with ";V0.02 Start code PrusaSlicer"
 
 
-Latest Version 0.02
-
-thanks
 
 
-please enclose prusa project with gcode & stl for me in zip;
+
+for debubing please enclose prusa project with gcode & stl for me in zip;
 thanks
 
