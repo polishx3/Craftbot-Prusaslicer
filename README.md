@@ -1,6 +1,6 @@
 # Craftbot-Prusaslicer
 
-Still in alpha; trying to catch any bugs especially with Prusa 5
+Still in alpha; trying to catch any bugs especially with Prusa 2.5
 have done some successful prints
 
 
@@ -29,6 +29,8 @@ Revision History
       check start gcode under printer setting
       
       should start with ";V0.02 Start code PrusaSlicer"
+      
+      deleteOldSettings.bat - to delete craftbot printer definition (re-add new craftbot throught configuration after overwriting file in the C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles dir with new version
 
 
 
