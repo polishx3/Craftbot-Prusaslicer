@@ -20,10 +20,14 @@ Revision History
 
 0.02  2/20/23
   - fixed bed size
+  - 
       Craftbot gives no specific info on bed size accurately; I still maybe off by +/- mm in the various modes
       
+      
   - added versioning to start gcode
+  
       check start gcode under printer setting
+      
       should start with ";V0.02 Start code PrusaSlicer"
 
 
