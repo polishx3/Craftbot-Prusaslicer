@@ -22,3 +22,7 @@ Latest Version 0.02
 
 thanks
 
+
+please enclose prusa project with gcode & stl for me in zip;
+thanks
+
