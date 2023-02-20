@@ -15,7 +15,7 @@ If previous version installed; may need to deleted old printer then reintall pri
 
 To check if you have the latest version check start gcode under printer setting
 
-
+should start with ";V0.02 Start code PrusaSlicer"
 
 
 Latest Version 0.02
