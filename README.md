@@ -35,9 +35,7 @@ Revision History
     
     - add FAST setting for 0.2 layer height
     
-    - gcode should start with ";V0.03 Start code PrusaSlicer"
-    
-    
+    - gcode should start with ";V0.03 Start code PrusaSlicer"    
     
     
     
