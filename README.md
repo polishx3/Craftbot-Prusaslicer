@@ -40,12 +40,13 @@ Revision History
     
     deleteOldSettings.bat - to delete craftbot printer definition (re-add new craftbot through configuration wizard in prusa slicer after overwriting files in the C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles directory with new version)
 
+0.04
+	- fixed pressure advance ie disabled due to not supported
 
 
 
 
 
-
-for debubing please enclose prusa project with gcode & stl for me in zip;
+for debuging please enclose prusa project with gcode & stl for me in zip;
 thanks
 
