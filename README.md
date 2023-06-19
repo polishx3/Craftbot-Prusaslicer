@@ -48,7 +48,7 @@ Revision History
 
 0.05
 
-  - adjusted X bed size to 400mm max    
+  - adjusted X bed size max    
   
   - gcode should start with ";V0.05 Start code PrusaSlicer"
 
