@@ -30,7 +30,7 @@ Revision History
       
       should start with ";V0.02 Start code PrusaSlicer"
       
-  0.03
+ 0.03
   - fixed stringing; temp for generic PETG too high    
 	
   - add FAST setting for 0.2 layer height    
@@ -42,11 +42,15 @@ Revision History
 
 0.04
 
-	- fixed pressure advance ie disabled due to not supported
+  - fixed pressure advance ie disabled due to not supported    
+  
+  - gcode should start with ";V0.04 Start code PrusaSlicer"
 
 0.05
 
-	- adjusted X bed size to 400mm max
+  - adjusted X bed size to 400mm max    
+  
+  - gcode should start with ";V0.05 Start code PrusaSlicer"
 
 
 
