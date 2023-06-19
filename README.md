@@ -52,6 +52,13 @@ Revision History
   
   - gcode should start with ";V0.05 Start code PrusaSlicer"
 
+0.06
+
+  - bug fix    
+  
+  - gcode should start with ";V0.06 Start code PrusaSlicer"
+
+
 
 
 
