@@ -41,7 +41,12 @@ Revision History
     deleteOldSettings.bat - to delete craftbot printer definition (re-add new craftbot through configuration wizard in prusa slicer after overwriting files in the C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles directory with new version)
 
 0.04
+
 	- fixed pressure advance ie disabled due to not supported
+
+0.05
+
+	- adjusted X bed size to 400mm max
 
 
 
